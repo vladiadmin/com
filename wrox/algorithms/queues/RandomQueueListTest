@@ -1,0 +1,12 @@
+package com.wrox.algorithms.queues;
+
+import  com.wrox.algorithms.lists.LinkedList;
+import  com.wrox.algorithms.lists.List;
+import junit.framework.TestCase;
+
+public class RandomListQueueTest extends TestCase {
+    private static final String VALUE_A = "A";
+    private static final String VALUE_B = "B";
+    private static final String VALUE_C = "C";
+    private Queue _queue;
+}
