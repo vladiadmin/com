@@ -1,7 +1,7 @@
-/* Description: The code is taken "Algorightms foundation" book on page 21 / junit
+/* Description: The code is taken from "Algorightms foundation" book on page 21 / junit
 Created 27-Dec-2021 */
 
-package com.wrox.algorithms.queues;
+package queues;
 
 import  com.wrox.algorithms.lists.LinkedList;
 import  com.wrox.algorithms.lists.List;
